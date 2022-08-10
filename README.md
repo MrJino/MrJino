@@ -18,4 +18,4 @@ A rolling stone gathers no moss
 ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
-![Docker](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=Docker)
+![Docker](https://img.shields.io/badge/-Docker-1572B6?style=flat-square&logo=Docker)
